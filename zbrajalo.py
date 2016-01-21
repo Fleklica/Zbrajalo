@@ -1,7 +1,7 @@
 print('bla bla')
 print('kako ovaj ljepo farba sintaksu')
 
-for i in range(20):
+for i in range(35):
     print(i)
 
 
